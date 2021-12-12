@@ -1,0 +1,5 @@
+1;Perfume;1.0;Luci;Dry;2;123;customer
+3;Scarewater;3.0;Lucky;Normal;2;123;customer
+1;Perfume;1.0;Luci;Dry;2;123;staff
+3;Scarewater;3.0;Lucky;Normal;2;123;staff
+4;Handwash;4.0;Lucky;Nomarl;2;123;staff

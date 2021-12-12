@@ -1,0 +1,4 @@
+1;Perfume;1.0;Luci;Dry;-3;
+2;Facewash;2.0;Luci;Oily;2;
+3;Scarewater;3.0;Lucky;Normal;-2;
+4;Handwash;4.0;Lucky;Nomarl;2;

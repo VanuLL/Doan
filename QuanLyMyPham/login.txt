@@ -1,0 +1,6 @@
+admin;admin;manager;123;Nar;030923040;
+admin;admin;customer;123;Nar;029384923;
+admin;admin;staff;123;Nar;0230934923;
+user3;pass3;manager;1;1;0293849238;
+user4;pass4;customer;411;1;0923849283;
+user1;uasaas;manager;ddd;ss;s;
