@@ -1,0 +1,10 @@
+C:\Users\84982\source\repos\bai22_1\bai22_1\bin\Debug\bai22_1.exe.config
+C:\Users\84982\source\repos\bai22_1\bai22_1\bin\Debug\bai22_1.exe
+C:\Users\84982\source\repos\bai22_1\bai22_1\bin\Debug\bai22_1.pdb
+C:\Users\84982\source\repos\bai22_1\bai22_1\obj\Debug\bai22_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\84982\source\repos\bai22_1\bai22_1\obj\Debug\bai22_1.Form1.resources
+C:\Users\84982\source\repos\bai22_1\bai22_1\obj\Debug\bai22_1.Properties.Resources.resources
+C:\Users\84982\source\repos\bai22_1\bai22_1\obj\Debug\bai22_1.csproj.GenerateResource.cache
+C:\Users\84982\source\repos\bai22_1\bai22_1\obj\Debug\bai22_1.csproj.CoreCompileInputs.cache
+C:\Users\84982\source\repos\bai22_1\bai22_1\obj\Debug\bai22_1.exe
+C:\Users\84982\source\repos\bai22_1\bai22_1\obj\Debug\bai22_1.pdb
